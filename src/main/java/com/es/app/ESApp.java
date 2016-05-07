@@ -9,7 +9,7 @@ import com.es.util.ESManager;
 import org.elasticsearch.client.Client;
 
 
-public class App {
+public class ESApp {
 
     public static void main(String[] args) {
         ESManager esManager = new ESManager();
